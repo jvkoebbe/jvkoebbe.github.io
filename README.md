@@ -5,6 +5,9 @@ written in a variety of languages. For example, I wrote a basic black oil simula
 VAX machines at the Univerisity of Wyoming in Fortran 77. Another project involves the simulation of the Gambler's Ruin problem
 written in Java.
 
+1. prs3d Repository
+2. Gambler's Ruin Repository
+
 You can use the [editor on GitHub](https://github.com/jvkoebbe/jvkoebbe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
