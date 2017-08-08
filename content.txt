@@ -1,25 +1,24 @@
 This file contains a table of contents for the content that will be covered in
 Math 4610 Fundamentals of Computational Mathematics.
 
-Content of the Course:
-----------------------
+# Content of the Course:
 
-I. Review of "Basic" Mathematics Skills
+## I. Review of "Basic" Mathematics Skills
   A. Topics from Algebra
   B. Topics from Calculus
   C. Topics from Linear Algebra
 
-II. Computational Errors
+## II. Computational Errors
   A. Truncation Error
   B. Roundoff Error
 
-III. Root Finding Algorithms
+## III. Root Finding Algorithms
   A. Bisection
   B. Newton's Method
   C. Fixed Point Iteration
   C. Hybrid Methods for Finding Roots
 
-IV. Algorithms for Solution of Linear Systems of Equations
+## IV. Algorithms for Solution of Linear Systems of Equations
   A. Gaussian Elimination and other Direct Methods
   B. LU Factorization for Linear Systems
         T
@@ -27,29 +26,29 @@ IV. Algorithms for Solution of Linear Systems of Equations
   D. Cholesky Factorization Methods
   E. Errors in Approximate Solution Methods - only computation convergence.....
 
-V. Least Squares Solutions
+## V. Least Squares Solutions
   A. The Normal Equations
   B. The Calculus Approach to Minimimization of Error
 
-VI. Algorithms for Computing Eigenvalues
+## VI. Algorithms for Computing Eigenvalues
   A. Some Theoretical Results
   B. The Power Method
   C. The QR Algorithm
 
-VII. Interpolation in One-Dimension
+## VII. Interpolation in One-Dimension
   A. Theoretical Facts About Interpolation
   B. Uniqueness of the Interpolating Polynomial
 
-VIII. Numerical Differentiation
+## VIII. Numerical Differentiation
   A. Finite Difference Approach
   B. Difference Tables
   C. Richardson Extrapolation
 
-IX. Numerical Integration
+## IX. Numerical Integration
   A. Riemman Sums and Basic Methods
   B. Simpson's Rule
-  C. Newton-Cotes
+  C. Newton-Cotes Quadrature 
   D. Gauss Quadrature
 
-X. The Fast Fourier Transform
+## X. The Fast Fourier Transform
 
