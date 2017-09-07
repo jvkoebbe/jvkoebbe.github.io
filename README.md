@@ -36,8 +36,14 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Links to Other Resources:
+
+1. USU Webpages: [USU Webpages](http://www.usu.edu/)
+2. Github Editor Link: [Github is Cool](https://guides.github.com/features/mastering-markdown/)
+3. Github MarkDown Documentation: [documentation](https://help.github.com/categories/github-pages-basics/)
+4. Github Support Contact: [contact support](https://github.com/contact)
+
 ### Contact Info:
 
-1. Website link: [USU Website location](http://www.math.usu.edu/~koebbe/)
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Joe's Website link: [USU Website location](http://www.math.usu.edu/~koebbe/)
+2. Joe's Email Address: [email](mailto://joe.koebbe@usu.edu)
