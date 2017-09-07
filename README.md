@@ -34,7 +34,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see .
 
 ### Links to Other Resources:
 
@@ -42,6 +42,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 2. Github Editor Link: [Github is Cool](https://guides.github.com/features/mastering-markdown/)
 3. Github MarkDown Documentation: [documentation](https://help.github.com/categories/github-pages-basics/)
 4. Github Support Contact: [contact support](https://github.com/contact)
+5. Github Markdown Docs: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ### Contact Info:
 
