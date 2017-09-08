@@ -7,7 +7,7 @@ a pair of DEC VAX machines at the Univerisity of Wyoming in Fortran 77. Another 
 Ruin problem written in Java.
 
 1. prs3d Repository
-2. Gambler's Ruin Repository
+2. [Gambler's Ruin Code Repository](https://github.com/jvkoebbe/gamblersruin)
 
 You can use the [editor on GitHub](https://github.com/jvkoebbe/jvkoebbe.github.io/edit/master/README.md) to maintain and preview 
 the content for your website in Markdown files.
