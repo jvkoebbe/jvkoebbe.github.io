@@ -4,9 +4,14 @@
 This site is maintained to offer people access to applications I have written over the past years. There are a lot of codes that 
 I have written in a variety of languages. For example, I wrote a basic black oil simulator for my dissertation many years ago on
 a pair of DEC VAX machines at the Univerisity of Wyoming in Fortran 77. Another project involves the simulation of the Gambler's
-Ruin problem written in Java.
+Ruin problem written in Java. The code for all projects that I have completed (or mostly completed) are freely available to all
+who want to use the codes responsibly.
 
-1. prs3d Repository
+Please note that the codes are provided with no warantee or any other guarantees. You are welcome to modify the code, but do not
+expect me to modify codes to meet your needs. However, I will likely not make huge changes to other codes unless the
+modifications are for bugs or problems with the existing codes.
+
+1. [Math 4610 materials](https://github.com/jvkoebbe/Math4610)
 2. [Gambler's Ruin Code Repository](https://github.com/jvkoebbe/gamblersruin)
 
 You can use the [editor on GitHub](https://github.com/jvkoebbe/jvkoebbe.github.io/edit/master/README.md) to maintain and preview 
