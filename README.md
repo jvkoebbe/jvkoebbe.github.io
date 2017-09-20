@@ -19,7 +19,8 @@ the content for your website in Markdown files.
 
 ### Course Materials
 
-1. [Math 2280 Ordinary Differential Equations (fall 2017)](http://www.math.usu.edu/~koebbe/)
+1. [Math 2280 Ordinary Differential Equations (fall 2017)]
+       (http://www.math.usu.edu/~koebbe/teaching/courses/math2280/materials.html)
 2. Math 4610 Fundamentals of Computational Mathematics (fall 2017)
 
 ### Links to Other Resources:
