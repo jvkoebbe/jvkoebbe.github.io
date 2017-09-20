@@ -20,7 +20,7 @@ the content for your website in Markdown files.
 ### Course Materials
 
 1. [Math 2280 ODEs (fall 2017)](http://www.math.usu.edu/~koebbe/teaching/courses/math2280/materials.html)
-2. [Math 4610 Fund. of Comp. Math (fall 2017)](http://www.math.usu.edu/~koebbe/teaching/courses/math4610/materials.html)
+2. [Math 4610 Fund. of Comp. Math (fall 2017)](http://www.math.usu.edu/~koebbe/teaching/courses/Math4610/materials.html)
 
 ### Links to Other Resources:
 
