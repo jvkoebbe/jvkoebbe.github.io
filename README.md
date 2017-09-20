@@ -17,6 +17,11 @@ modifications are for bugs or problems with the existing codes.
 You can use the [editor on GitHub](https://github.com/jvkoebbe/jvkoebbe.github.io/edit/master/README.md) to maintain and preview 
 the content for your website in Markdown files.
 
+### Course Materials
+
+1. [Math 2280 Ordinary Differential Equations (fall 2017)](http://www.math.usu.edu/~koebbe/)
+2. Math 4610 Fundamentals of Computational Mathematics (fall 2017)
+
 ### Links to Other Resources:
 
 1. USU Webpages: [USU Webpages](http://www.usu.edu/)
