@@ -11,7 +11,7 @@ Please note that the codes are provided with no warantee or any other guarantees
 expect me to modify codes to meet your needs. However, I will likely not make huge changes to other codes unless the
 modifications are for bugs or problems with the existing codes.
 
-1. [Math 4610 Materials](https://jvkoebbe.github.io/math4610/README)
+1. [Math 4610 Materials](https://jvkoebbe.github.io/math4610/README.md)
 2. [software manual template](https://jvkoebbe.github.io/math4610/softwareManualTemplate)
 2. [Gambler's Ruin Code Repository](https://jvkoebbe.github.io/gamblersruin.README)
 
