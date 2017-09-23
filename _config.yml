@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
 title: Joe's Webpage
 description: This website mainly contains links to coding projects of the main character for the web site
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.js" integrity="sha384-L9gv4ooDLrYwW0QCM6zY3EKSSPrsuUncpx26+erN0pJX4wv1B1FzVW1SvpcJPx/8" crossorigin="anonymous"></script>
