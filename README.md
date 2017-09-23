@@ -13,7 +13,7 @@ modifications are for bugs or problems with the existing codes.
 
 1. [Math 4610 Materials](https://jvkoebbe.github.io/math4610/main)
 2. [software manual template](https://jvkoebbe.github.io/math4610/softwareManualTemplate)
-2. [Gambler's Ruin Code Repository](https://jvkoebbe.github.io/gamblersruin)
+3. [Gambler's Ruin Code Repository](https://jvkoebbe.github.io/gamblersruin/main)
 
 You can use the [editor on GitHub](https://github.com/jvkoebbe/jvkoebbe.github.io/edit/master/README.md) to maintain and preview 
 the content for your website in Markdown files.
