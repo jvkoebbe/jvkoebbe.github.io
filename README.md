@@ -9,13 +9,16 @@ mostly completed) are freely available to all who want to use the codes responsi
 
 Please note that the codes are provided with no warranty or any other guarantees. You are welcome to modify the code, but do not
 expect me to modify codes to meet your needs or to correct problems that have occured due to modifications you have made to the 
-existing codes. However, I will likely not make huge changes to other codes unless the modifications are for bugs or problems with 
-existing codes that have some problem with the underlying logic or mathematics (or something like that).
+existing codes. However, I will likely not make huge changes to other codes unless the modifications are for bugs or problems 
+with existing codes that have some problem with the underlying logic or mathematics (or something like that). Note that I am a
+bit new to Github and some of these links are still being filled in. Please bit patient if you click on a link and there is no
+page on the other end.
 
 1. [Math 4610 Materials](https://jvkoebbe.github.io/math4610/main)
 2. [Gamblers Ruin Codes](https://jvkoebbe.github.io/gamblersruin/main)
 3. [Wavelets Conditioned on Numerical Methods for Conservation laws](https://jvkoebbe.github.io/wcncl/main)
 4. [Homogenization Wavelet Reconstruction Method](https://jvkoebbe.github.io/hwr/main)
+4. [JHomogenizer Code](https://jvkoebbe.github.io/jhomogenizer/main)
 
 You can use the [editor on GitHub](https://github.com/jvkoebbe/jvkoebbe.github.io/edit/master/README.md) to maintain and preview 
 the content for your website in Markdown files.
