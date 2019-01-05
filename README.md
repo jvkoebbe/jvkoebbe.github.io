@@ -66,4 +66,4 @@ The following links are included for interested readers.
 4. Github Support Contact: [contact support](https://github.com/contact)
 5. Github Markdown Docs: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-**last modified:** __January 5, 2019__
+**last modified:** _January 5, 2019_
