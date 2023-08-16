@@ -1,5 +1,11 @@
 # Github Repositories for Joe Koebbe
 
+### Current Repositories for Current Students
+
+[Math 2280 Fall 2023](https://jvkoebbe.github.io/math4610)
+
+### Introduction for Other Projects:
+
 This site is maintained to offer people access to applications I have written over the past years/decades. There are a lot of 
 codes that I have written in a variety of languages. For example, I wrote a basic black oil simulator (approximately 350,000 
 lines of Fortran 77 code) for my dissertation many years ago on a pair of DEC VAX machines at the Univerisity of Wyoming in 
@@ -32,7 +38,7 @@ For some of the classes taught at USU, course materials have been posted on Gith
 user user to several courses. These are basic links. If you are interested in the contents, find the syllabus for each of these
 courses. A good share of the links for classes will take you Joe's web site at USU.
 
-1. [Math 4610 Materials](https://jvkoebbe.github.io/math4610/main)
+1. [Math 4610 Materials](https://jvkoebbe.github.io/math4610)
 1. [Math 2280 ODEs (fall 2017)](http://www.math.usu.edu/~koebbe/teaching/courses/math2280/materials.html)
 2. [Math 4610 Fund. of Comp. Math (fall 2017)](http://www.math.usu.edu/~koebbe/teaching/courses/Math4610/materials.html)
 
