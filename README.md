@@ -4,7 +4,7 @@
 
 [Math 2280 Fall 2023](https://www.github.com/jvkoebbe/math2280)
 
-[Math 4610 Fall 2023](https://jvkoebbe.github.io/math4610)
+[Math 4610 Fall 2023](https://www.github.com/jvkoebbe/math4610)
 
 
 ### Introduction for Other Projects:
