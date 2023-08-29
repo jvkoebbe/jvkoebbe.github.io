@@ -2,6 +2,8 @@
 
 ### Current Repositories for Current Students
 
+[Math 2280 Fall 2023](https://jvkoebbe.github.io/math2280)
+
 [Math 2280 Fall 2023](https://www.github.com/jvkoebbe/math2280)
 
 [Math 4610 Fall 2023](https://www.github.com/jvkoebbe/math4610)
