@@ -1,8 +1,8 @@
 # Github Repositories for Joe Koebbe
 
 Author: Joe Koebbe
-main link: 
-[https://jvkoebbe.gihub.io/](https://jvkoebbe.gihub.io/)
+
+main link: [https://jvkoebbe.gihub.io](https://jvkoebbe.gihub.io)
 
 ## Current Repositories for Students
 
