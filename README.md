@@ -1,39 +1,12 @@
 # Github Repositories for Joe Koebbe
 
-### Current Repositories for Current Students
+Author: Joe Koebbe
+main link: 
+[https://jvkoebbe.gihub.io/](https://jvkoebbe.gihub.io/)
 
-[Math 2280 Fall 2023](https://www.github.com/jvkoebbe/math2280)
+## Current Repositories for Students
 
-[Math 4610 Fall 2023](https://www.github.com/jvkoebbe/math4610)
-
-
-### Introduction for Other Projects:
-
-This site is maintained to offer people access to applications I have written over the past years/decades. There are a lot of 
-codes that I have written in a variety of languages. For example, I wrote a basic black oil simulator (approximately 350,000 
-lines of Fortran 77 code) for my dissertation many years ago on a pair of DEC VAX machines at the Univerisity of Wyoming in 
-Fortran. Another project involves the simulation of the Gambler's Ruin problem written in Java. The code for all projects that I 
-have completed (or mostly completed) are freely available to all who want to use the codes responsibly.
-
-Please note that the codes are provided with no warranty or any other guarantees. You are welcome to modify the code, but do not
-expect me to modify codes to meet your needs or to correct problems that have occured due to modifications you have made to the 
-existing codes. However, I will likely not make huge changes to other codes unless the modifications are for bugs or problems 
-with existing codes that have some problem with the underlying logic or mathematics (or something like that). Note that I am a
-bit new to Github and some of these links are still being filled in. Please bit patient if you click on a link and there is no
-page on the other end.
-
-## How to Get Ahold of the Author of this Mess:
-
-Joe Koebbe has worked for Utah State University (USU) for more than 30 years. Even though he is a faculty member in the
-Department of Mathematics and Statistics, in the College of Science at USU, he mostly works on computational projects from home.
-Appointments can be se up via email and messages left on voice mail.
-
-You can contact Joe using the following links:
-
-1. Joe's Website link: [USU Website](http://www.math.usu.edu/~koebbe/)
-2. Joe's Email Address: [email](mailto://joe.koebbe@usu.edu)
-3. Campus Phone: 1-435-797-2825
-4. Office: ANSC 209
+[Math 4610 Fall 2023](https://www.github.com/jvkoebbe/github.io)
 
 ### Repositories for Classes Currently Taught or Taught in the Past
 
