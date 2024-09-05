@@ -2,7 +2,7 @@
 
 Author: Joe Koebbe
 
-main link: [https://jvkoebbe.gihub.io](https://jvkoebbe.gihub.io)
+main link: [https://jvkoebbe.github.io](https://jvkoebbe.github.io)
 
 ## Current Repositories for Students
 
